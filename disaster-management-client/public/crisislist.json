@@ -1,0 +1,66 @@
+[
+    {
+      "topicName": "Flooding",
+      "status" : "aproved",
+      "issueName": "Severe Flooding in Sylhet",
+      "location": "Sylhet, Bangladesh",
+      "effect": "Displacement of thousands of families.",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/img-6489-1.JPG?c=original"
+    },
+    {
+      "topicName": "Cyclone",
+      "status" : "aproved",
+      "issueName": "Cyclone Amphan",
+      "location": "Khulna, Bangladesh",
+      "effect": "Destruction of homes and agriculture.",
+      "imageUrl": "https://d2u0ktu8omkpf6.cloudfront.net/9176f62f4bc867a010b88c7a8711fafcc9838e8fd6662e42.jpg"
+    },
+    {
+      "topicName": "Drought",
+      "status" : "aproved",
+      "issueName": "Water Shortage in Northern Regions",
+      "location": "Rangpur, Bangladesh",
+      "effect": "Impact on crops and livelihood.",
+      "imageUrl": "https://www.aquaread.com/blog/wp-content/uploads/2022/11/dry-land-caused-by-drought.jpeg"
+    },
+    {
+      "topicName": "Earthquake",
+      "status" : "aproved",
+      "issueName": "Tremors felt in Dhaka",
+      "location": "Dhaka, Bangladesh",
+      "effect": "Minor damages reported in buildings.",
+      "imageUrl": "https://cdn.britannica.com/34/127134-050-49EC55CD/Building-foundation-earthquake-Japan-Kobe-January-1995.jpg"
+    },
+    {
+      "topicName": "Landslide",
+      "status" : "aproved",
+      "issueName": "Landslide in Chittagong Hill Tracts",
+      "location": "Chittagong, Bangladesh",
+      "effect": "Blockage of roads and loss of property.",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRimOy0pTQpQwq6_J-uATc2tcidGgX_cXzfpA&s"
+    },
+    {
+      "topicName": "Heatwave",
+      "status" : "aproved",
+      "issueName": "Severe Heatwave Across Bangladesh",
+      "location": "Nationwide",
+      "effect": "Health risks and water scarcity.",
+      "imageUrl": "https://www.theactuarymagazine.org/wp-content/uploads/2024/06/Drinking-Water-Heatwave.jpg"
+    },
+    {
+      "topicName": "Tornado",
+      "status" : "aproved",
+      "issueName": "Tornado in Bogura",
+      "location": "Bogura, Bangladesh",
+      "effect": "Destruction of homes and infrastructure.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/F5_tornado_Elie_Manitoba_2007.jpg"
+    },
+    {
+      "topicName": "Pollution",
+      "status" : "not aproved",
+      "issueName": "Air Pollution Crisis in Dhaka",
+      "location": "Dhaka, Bangladesh",
+      "effect": "Health issues among residents.",
+      "imageUrl": "https://cdn.sanity.io/images/cphrnle8/production/adbed67f4f4f280b41e21ebafafa7f800dd3d0d9-1440x811.jpg?w=1440&q=100&fit=max"
+    }
+  ]
